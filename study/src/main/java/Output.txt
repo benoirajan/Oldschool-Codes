@@ -1,0 +1,103 @@
+**Fact1**
+Enter Number
+4
+24
+
+**MultTab2**
+Enter num
+4
+1 * 4 = 4
+2 * 4 = 8
+3 * 4 = 12
+4 * 4 = 16
+5 * 4 = 20
+6 * 4 = 24
+7 * 4 = 28
+8 * 4 = 32
+9 * 4 = 36
+10 * 4 = 40
+
+**NumRev3**
+Enter num :
+463
+364
+
+**DigtSum4**
+Enter num :
+433
+10
+
+**StarTri5**
+Enter no. of lines
+4
+*
+**
+***
+****
+
+**ArrayDis6**
+Enter num of elements
+3
+Enter the values
+2
+4
+4
+Elements
+2   4   4   
+**ArrayLarge7**
+Enter num of elements
+4
+Enter the values
+4 3 5 2
+Large :5
+
+**ArSearch8**
+Enter num of elements
+6
+Enter the values
+3 2 8 1   6 7
+Search for
+7
+Loc=5
+
+**ArSort9**
+Enter num of elements
+5
+Enter the values
+2 3 1 4 2
+Sorted array
+1  2  2  3  4  
+
+**Overload10**
+19
+9.4
+
+**Constructer overload**
+9
+
+**p12.ShapeVolume12**
+Enter side of cube
+2
+Volume
+8.0
+Enter sides of cube
+2 2 10
+Volume
+40.0
+
+**SingleIn13**
+4
+Playing
+
+**MultInher14**
+Enter n
+4
+Song
+4
+Playing
+
+**Hierar15**
+Audio
+is playing
+Video
+is playing
